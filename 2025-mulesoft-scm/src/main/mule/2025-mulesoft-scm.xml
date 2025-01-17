@@ -4,6 +4,6 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="2025-mulesoft-scmFlow" doc:id="5a116d84-9d27-4cd2-9b07-093508a47b8a" >
-		<logger level="INFO" doc:name="Logger" doc:id="f9b3c682-f7db-4fc3-aa9f-6c5a23deefad" message='"SCM Test"'/>
+		<logger level="INFO" doc:name="Logger" doc:id="f9b3c682-f7db-4fc3-aa9f-6c5a23deefad" message='"SCM Test Again"'/>
 	</flow>
 </mule>
